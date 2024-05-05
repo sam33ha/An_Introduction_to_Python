@@ -7,6 +7,16 @@
 <br />
 
 
+```diff
+- Hi My name is Sameeha
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
+
 ### **Step 1: Install NCBI datasets**
 
 **Now, you have downloaded the genomic sequences of all the accessions in your list.**
